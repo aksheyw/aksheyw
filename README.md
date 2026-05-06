@@ -50,6 +50,7 @@ The 3 `claude-code-*` repos above are pieces of my actual config, sanitized and 
 
 I'm currently exploring **AI-native PM / Builder roles**. If you're hiring or just want to compare notes on Claude Code workflows, reach out:
 
+- 🌐 Website: [aksheywalia.in](https://aksheywalia.in)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aksheywalia/)
 - 📧 Email: aksheyw [at] gmail [dot] com
 - 🐙 You're already here — feel free to open an issue on any repo
