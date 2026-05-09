@@ -26,6 +26,7 @@
 | **[claude-code-deep-review](https://github.com/aksheyw/claude-code-deep-review)** | 14-lens iterative review methodology. Found 14 production bugs (2 ship-stoppers) on first use. |
 | **[claude-code-pm-agents](https://github.com/aksheyw/claude-code-pm-agents)** | 7 product-builder subagents — PM, growth, brand, ASO, SEO, YouTube, comms triage. |
 | **[claude-code-rules](https://github.com/aksheyw/claude-code-rules)** | Opinionated global rules: honesty / earned-confidence, TDD, immutability, branching. |
+| **[claude-code-learned-skills](https://github.com/aksheyw/claude-code-learned-skills)** | 3 Docker / SSH / VPS skills auto-extracted from real debugging sessions. The continuous-learning meta-pattern. |
 
 ---
 
