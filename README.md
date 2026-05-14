@@ -27,6 +27,7 @@
 | **[claude-code-pm-agents](https://github.com/aksheyw/claude-code-pm-agents)** | 7 product-builder subagents — PM, growth, brand, ASO, SEO, YouTube, comms triage. |
 | **[claude-code-rules](https://github.com/aksheyw/claude-code-rules)** | Opinionated global rules: honesty / earned-confidence, TDD, immutability, branching. |
 | **[claude-code-learned-skills](https://github.com/aksheyw/claude-code-learned-skills)** | 3 Docker / SSH / VPS skills auto-extracted from real debugging sessions. The continuous-learning meta-pattern. |
+| **[career-command-center-template](https://github.com/aksheyw/career-command-center-template)** | Full plugin template for an AI-native job-search workflow — 10 skills, 5 personal-data skeletons, hooks. |
 
 ---
 
@@ -34,7 +35,7 @@
 
 I treat Claude Code like a real product surface, not a chat box. Every project I ship has its own subagents, rules, hooks, and skills — most of which I've built and refined across multiple launches.
 
-The 3 `claude-code-*` repos above are pieces of my actual config, sanitized and shared. The honesty rule alone has changed how I work with Claude Code more than any prompt-engineering trick.
+The repos above are pieces of my actual config, sanitized and shared. The honesty rule alone has changed how I work with Claude Code more than any prompt-engineering trick.
 
 ---
 
