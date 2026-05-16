@@ -17,7 +17,7 @@ Most senior PMs have one or two of these — I've shipped all four:
 - 📱 **Consumer AI scale** — Group PM on Glance AI lock screen (InMobi, Jan 2023 – Apr 2026), 250M+ devices across 8 markets. Led US market entry 100K → 6M devices (60X in 18 months); ARPU $10 → $15 (+25% YoY); D60 retention 49% → 55%.
 - 💸 **Fintech P&L** — built MagicBricks Pay Rent from 0 → INR 50Cr GMV (100% MoM at peak), payment success 95% → 99%, settlement 48hrs → 2hrs, integrated 3 payment gateways with cashback wiring across 5 banks (HDFC, ICICI, Kotak, Standard Chartered, IDFC).
 - 🤝 **Fortune 500 partnerships** — OEM: Samsung, Motorola, Sharp, Xiaomi, Realme. Telco: Verizon (US), SoftBank (Japan).
-- 🛠 **Hands-on AI builder** — ship real products with Claude Code, GPT-4.1, Gemini, Vapi, n8n. The repos below are my actual config, sanitized and shared.
+- 🛠 **Hands-on AI builder** — ship real products with Claude Code, Codex, n8n, Vapi, and compatible LLMs from OpenAI, Anthropic, and Google (Gemini). The repos below are my actual config, sanitized and shared.
 
 ---
 
@@ -31,8 +31,8 @@ Most senior PMs have one or two of these — I've shipped all four:
 
 | | |
 |---|---|
-| **[GrowFlowAI](https://github.com/aksheyw/GrowFlowAI)** · [demo →](https://grow-flow-ai.vercel.app) | AI task-management. Meeting notes become tasks via Telegram, web, or email. React + Supabase Edge + Capacitor (Android) + n8n + Whisper/Vision/GPT-4o-mini. CI green, used daily. |
-| **[Kahaani AI](https://github.com/aksheyw/kahaaniAI)** · [demo →](https://kahaani-ai-livid.vercel.app) | 3 publication-ready audio scripts in 90 seconds — for ₹2 vs ₹2,000. Built in 4 days. React + Vercel serverless + GPT-4.1. |
+| **[GrowFlowAI](https://github.com/aksheyw/GrowFlowAI)** · [demo →](https://grow-flow-ai.vercel.app) | AI task-management. Meeting notes become tasks via Telegram, web, or email. React + Supabase Edge + Capacitor (Android) + n8n + OpenAI (transcription, vision, LLM extraction). CI green, used daily. |
+| **[Kahaani AI](https://github.com/aksheyw/kahaaniAI)** · [demo →](https://kahaani-ai-livid.vercel.app) | 3 publication-ready audio scripts in 90 seconds — for ₹2 vs ₹2,000. Built in 4 days. React + Vercel serverless + OpenAI. |
 
 ## Claude Code tooling (open-sourced from my own config)
 
@@ -56,7 +56,7 @@ The honesty rule alone has changed how I work with Claude Code more than any pro
 
 ## Stack
 
-**AI / Automation:** Claude Code (daily) · GPT-4.1 · Gemini · OpenRouter · Anthropic API · OpenAI API · Vapi · Deepgram · n8n · Google Antigravity · Bolt.new
+**AI / Automation:** Claude Code (daily) · Codex · OpenAI · Anthropic · Gemini · OpenRouter · Vapi · Deepgram · n8n · Google Antigravity · Bolt.new
 **Frontend:** React · Next.js · Tailwind · Capacitor (Android)
 **Backend:** Supabase (Postgres + Edge Functions + pgvector) · Firebase · Vercel serverless · Node.js
 **Infra:** GitHub Actions · Vercel · Hostinger VPS
