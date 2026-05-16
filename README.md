@@ -1,14 +1,22 @@
 # Hi, I'm Akshey 👋
 
-[![Open to roles](https://img.shields.io/badge/Open_to-Director_PM_%2F_Principal_PM_%2F_AI_Builder-success?style=for-the-badge&logo=briefcase)](https://www.linkedin.com/in/aksheywalia/)
-[![Current scope](https://img.shields.io/badge/Group_PM-Glance_%C2%B7_250M%2B_DAU_%C2%B7_8_markets-blue?style=for-the-badge)](https://aksheywalia.in)
+> **Senior Product Leader · Consumer Platforms at 250M+ Device Scale · AI Product Building · 0-to-1**
+
+[![Open to roles](https://img.shields.io/badge/Open_to-senior_product_leadership_%2F_AI_Builder_roles-success?style=for-the-badge&logo=briefcase)](https://www.linkedin.com/in/aksheywalia/)
+[![Availability](https://img.shields.io/badge/Available-immediately-22c55e?style=for-the-badge)](https://www.linkedin.com/in/aksheywalia/)
 [![Credential](https://img.shields.io/badge/ISB_MBA-Flagbearer_Award_(top_1%25)-orange?style=for-the-badge)](https://aksheywalia.in)
 
-**A rare 4-way combination.** Most senior PMs have one or two of these — I've shipped all four:
+ISB MBA (Flagbearer Award, top 1%) and most recently Group PM at InMobi (Jan 2023 – Apr 2026). I led Go-To-Market and 0-to-1 product across 8 markets on Glance AI lock screen — an AI-powered platform pre-installed on 250M+ devices via OEM and telco partnerships. I ship AI products on my own time at github.com/aksheyw, with focused AI and agentic certifications from Vanderbilt, Duke, and Outskill.
 
-- 📱 **Consumer AI scale** — Group PM on [Glance AI lock screen](https://aksheywalia.in) (InMobi), 250M+ DAU across 8 markets. Led US market entry 100K → 6M devices (60X in 18 months).
-- 💸 **Fintech P&L** — built MagicBricks Pay Rent from INR 1Cr → INR 50Cr GMV (50X), payment success 95% → 99%, settlement 48hrs → 2hrs.
-- 🤝 **Fortune 500 partnerships** — Samsung, Motorola, Verizon, SoftBank, Sharp. Bank partners: HDFC, ICICI, Kotak.
+---
+
+## A rare 4-way combination
+
+Most senior PMs have one or two of these — I've shipped all four:
+
+- 📱 **Consumer AI scale** — Group PM on Glance AI lock screen (InMobi, Jan 2023 – Apr 2026), 250M+ devices across 8 markets. Led US market entry 100K → 6M devices (60X in 18 months); ARPU $10 → $15 (+25% YoY); D60 retention 49% → 55%.
+- 💸 **Fintech P&L** — built MagicBricks Pay Rent from 0 → INR 50Cr GMV (100% MoM at peak), payment success 95% → 99%, settlement 48hrs → 2hrs, integrated 3 payment gateways with cashback wiring across 5 banks (HDFC, ICICI, Kotak, Standard Chartered, IDFC).
+- 🤝 **Fortune 500 partnerships** — OEM: Samsung, Motorola, Sharp, Xiaomi, Realme. Telco: Verizon (US), SoftBank (Japan).
 - 🛠 **Hands-on AI builder** — ship real products with Claude Code, GPT-4o, Gemini, Vapi, n8n. The repos below are my actual config, sanitized and shared.
 
 ---
@@ -63,19 +71,21 @@ The honesty rule alone has changed how I work with Claude Code more than any pro
 
 ---
 
-## Certifications (selected)
+## Certifications
+
+Focused AI and agentic certifications from Vanderbilt, Duke, and Outskill:
 
 - **AI Product Management** — Duke University (2026)
 - **Agentic AI and AI Agents for Leaders** — Vanderbilt University (2026)
 - **Generative AI Strategic Leader** — Vanderbilt University (2025)
-- **Digital Product Management Specialization** — UVA Darden
-- **Introduction to Negotiation** — Yale
+- **AI Generalist Accelerator Program** — Outskill (2025)
+- Plus: UVA Darden (Digital Product Management), Yale (Negotiation)
 
 ---
 
 ## Get in touch
 
-Exploring **Director of Product / Principal PM / AI Builder** roles — Director-level scope at AI-first companies and GCCs. Open to Bengaluru and remote.
+Exploring **senior product leadership · Principal PM · AI Builder** roles at AI-first companies, GCCs, and Indian product-led companies. **Available immediately.** Open to relocation across Indian metros.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aksheywalia/) — primary inbound
 - 🌐 [aksheywalia.in](https://aksheywalia.in) — portfolio + voice-AI digital twin
