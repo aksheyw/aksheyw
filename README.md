@@ -6,7 +6,7 @@
 [![Availability](https://img.shields.io/badge/Available-immediately-22c55e?style=for-the-badge)](https://www.linkedin.com/in/aksheywalia/)
 [![Credential](https://img.shields.io/badge/ISB_MBA-Flagbearer_Award_(top_1%25)-orange?style=for-the-badge)](https://aksheywalia.in)
 
-ISB MBA (Flagbearer Award, top 1%) and most recently Group PM at InMobi (Jan 2023 – Apr 2026). I led Go-To-Market and 0-to-1 product across 8 markets on Glance AI lock screen — an AI-powered platform pre-installed on 250M+ devices via OEM and telco partnerships. I ship AI products on my own time at github.com/aksheyw, with focused AI and agentic certifications from Vanderbilt, Duke, and Outskill.
+ISB MBA (Flagbearer Award, top 1%) and most recently Group PM at InMobi (Jan 2023 – Apr 2026). I led Go-To-Market and 0-to-1 product across 8 markets on Glance AI Lock Screen — an AI-powered platform pre-installed on 250M+ devices via OEM and telco partnerships. I ship AI products on my own time at github.com/aksheyw, with focused AI and agentic certifications from Vanderbilt, Duke, and Outskill.
 
 ---
 
@@ -14,8 +14,8 @@ ISB MBA (Flagbearer Award, top 1%) and most recently Group PM at InMobi (Jan 202
 
 Most senior PMs have one or two of these — I've shipped all four:
 
-- 📱 **Consumer AI scale** — Group PM on Glance AI lock screen (InMobi, Jan 2023 – Apr 2026), 250M+ devices across 8 markets. Led US market entry 100K → 6M devices (60X in 18 months); ARPU $10 → $15 (+25% YoY); D60 retention 49% → 55%.
-- 💸 **Fintech P&L** — built MagicBricks Pay Rent from 0 → INR 50Cr GMV (100% MoM at peak), payment success 95% → 99%, settlement 48hrs → 2hrs, integrated 3 payment gateways with cashback wiring across 5 banks (HDFC, ICICI, Kotak, Standard Chartered, IDFC).
+- 📱 **Consumer AI scale** — Group PM on Glance AI Lock Screen (InMobi, Jan 2023 – Apr 2026), 250M+ devices across 8 markets. Led US market entry 100K → 6M devices (60X in 18 months); ARPU $10 → $15 (+25% YoY); D60 retention 49% → 55%.
+- 💸 **Fintech P&L** — built Magicbricks Pay Rent from 0 → INR 50Cr GMV (100% MoM at peak), payment success 95% → 99%, settlement 48hrs → 2hrs, integrated 3 payment gateways with cashback wiring across 5 banks (HDFC, ICICI, Kotak, Standard Chartered, IDFC).
 - 🤝 **Fortune 500 partnerships** — OEM: Samsung, Motorola, Sharp, Xiaomi, Realme. Telco: Verizon (US), SoftBank (Japan).
 - 🛠 **Hands-on AI builder** — ship real products with Claude Code, Codex, n8n, Vapi, and compatible LLMs from OpenAI, Anthropic, and Google (Gemini). The repos below are my actual config, sanitized and shared.
 
@@ -56,7 +56,7 @@ The honesty rule alone has changed how I work with Claude Code more than any pro
 
 ## Stack
 
-**AI / Automation:** Claude Code (daily) · Codex · OpenAI · Anthropic · Gemini · OpenRouter · Vapi · Deepgram · n8n · Google Antigravity · Bolt.new
+**AI / Automation:** Claude Code (daily) · Codex · OpenAI · Anthropic · Google (Gemini) · OpenRouter · Vapi · Deepgram · ElevenLabs · n8n · Google Antigravity · Bolt.new
 **Frontend:** React · Next.js · Tailwind · Capacitor (Android)
 **Backend:** Supabase (Postgres + Edge Functions + pgvector) · Firebase · Vercel serverless · Node.js
 **Infra:** GitHub Actions · Vercel · Hostinger VPS
@@ -65,9 +65,10 @@ The honesty rule alone has changed how I work with Claude Code more than any pro
 
 ## Recognition
 
+- **InMobi Real Star Award (2× winner: 2022, 2025)** — company's highest individual contribution award
+- **InMobi top-performer recognition** — 4 consecutive years (2022-2025)
 - **ISB Flagbearer Award** (October 2021) — Top 1% of MBA class
-- **InMobi Emmy Awards** — 4 consecutive years (Real Star 2022, Avengers 2023, Jedi Master 2024, Real Star 2025)
-- **ISB Alumni Association Board Member**
+- **ISB Alumni Association Board Member** (2024-Present)
 
 ---
 
@@ -75,17 +76,18 @@ The honesty rule alone has changed how I work with Claude Code more than any pro
 
 Focused AI and agentic certifications from Vanderbilt, Duke, and Outskill:
 
+- **Claude Code: SE with GenAI Agents** — Vanderbilt University (2026)
 - **AI Product Management** — Duke University (2026)
 - **Agentic AI and AI Agents for Leaders** — Vanderbilt University (2026)
 - **Generative AI Strategic Leader** — Vanderbilt University (2025)
 - **AI Generalist Accelerator Program** — Outskill (2025)
-- Plus: UVA Darden (Digital Product Management), Yale (Negotiation)
+- **Digital Product Management Specialization** — UVA Darden
 
 ---
 
 ## Get in touch
 
-Exploring **senior product leadership · Principal PM · AI Builder** roles at AI-first companies, GCCs, and Indian product-led companies. **Available immediately.** Open to relocation across Indian metros.
+Exploring **senior product roles · AI Product Building · 0-to-1 GTM** at AI-first companies, GCCs, and Indian product-led companies. **Available immediately.** Open to relocation across Indian metros.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aksheywalia/) — primary inbound
 - 🌐 [aksheywalia.in](https://aksheywalia.in) — portfolio + voice-AI digital twin
