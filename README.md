@@ -42,6 +42,7 @@ Most senior PMs have one or two of these — I've shipped all four:
 | **[claude-code-pm-agents](https://github.com/aksheyw/claude-code-pm-agents)** | 7 product-builder subagents — PM, growth, brand, ASO, SEO, YouTube, comms triage. |
 | **[claude-code-rules](https://github.com/aksheyw/claude-code-rules)** | Opinionated global rules: honesty / earned-confidence, TDD, immutability, branching. |
 | **[claude-code-learned-skills](https://github.com/aksheyw/claude-code-learned-skills)** | 3 Docker / SSH / VPS skills auto-extracted from real debugging sessions. |
+| **[context-bridge](https://github.com/aksheyw/context-bridge)** | Per-project wiki + auto-generated handoff prompts that stop cross-session amnesia. Install: `npx skills add aksheyw/context-bridge`. 5 commands, 11-step save+sync, honesty rules embedded in adopters' CLAUDE.md. v0.1.2 shipped with matrix CI green on Ubuntu + macOS. |
 | **[career-command-center-template](https://github.com/aksheyw/career-command-center-template)** | Plugin template for an AI-native job-search workflow — 10 skills, marketplace install (`/plugin marketplace add aksheyw/career-command-center-template`), example resume PDF in `examples/`. |
 
 ---
