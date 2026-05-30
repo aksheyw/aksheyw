@@ -31,7 +31,6 @@ Most senior PMs have one or two of these — I've shipped all four:
 
 | | |
 |---|---|
-| **[JobMagnet](https://github.com/aksheyw/jobmagnet-app)** · [demo →](https://jobmagnet-app.vercel.app) | Paste your profile + a job link → **5 OpenAI Codex agents** build a portfolio site in the target company's own brand, in ~96 seconds. Next.js + Vercel · Codex SDK agent pipeline on a VPS · Supabase. Built solo for the OpenAI × Outskill hackathon. |
 | **[GrowFlowAI](https://github.com/aksheyw/GrowFlowAI)** · [demo →](https://grow-flow-ai.vercel.app) | AI task-management. Meeting notes become tasks via Telegram, web, or email. React + Supabase Edge + Capacitor (Android) + n8n + OpenAI (transcription, vision, LLM extraction). CI green, used daily. |
 | **[Kahaani AI](https://github.com/aksheyw/kahaaniAI)** · [demo →](https://kahaani-ai-livid.vercel.app) | 3 publication-ready audio scripts in 90 seconds — for ₹2 vs ₹2,000. Built in 4 days. React + Vercel serverless + OpenAI. |
 
@@ -39,6 +38,7 @@ Most senior PMs have one or two of these — I've shipped all four:
 
 | | |
 |---|---|
+| **[claude-code-ship-gate](https://github.com/aksheyw/claude-code-ship-gate)** | A `--no-verify`-proof, opt-in pre-push quality gate — blocks pushes to main until tests / review / security gates pass, then writes a tamper-proof marker. The push-block hook survived a 14-lens review + 3 adversarial red-teams (7 fail-open classes fixed). Marketplace install: `/plugin marketplace add aksheyw/claude-code-ship-gate`. |
 | **[claude-code-deep-review](https://github.com/aksheyw/claude-code-deep-review)** | 14-lens iterative review methodology. Found 14 production bugs (2 ship-stoppers) on first use. |
 | **[claude-code-pm-agents](https://github.com/aksheyw/claude-code-pm-agents)** | 7 product-builder subagents — PM, growth, brand, ASO, SEO, YouTube, comms triage. |
 | **[claude-code-rules](https://github.com/aksheyw/claude-code-rules)** | Opinionated global rules: honesty / earned-confidence, TDD, immutability, branching. |
