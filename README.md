@@ -31,6 +31,7 @@ Most senior PMs have one or two of these — I've shipped all four:
 
 | | |
 |---|---|
+| **[JobMagnet](https://github.com/aksheyw/jobmagnet-app)** · [gallery →](https://jobmagnet-app.vercel.app/gallery) | Paste a job description + your résumé → a 5-agent pipeline (research → brand → narrative → pitch → code) builds a portfolio site brand-themed for *that* company, then hands you a deployable Next.js project to download. Built in 7 days for the OpenAI × Outskill hackathon. Codex SDK + Next.js + Supabase + Hostinger VPS · ~96s end-to-end. |
 | **[GrowFlowAI](https://github.com/aksheyw/GrowFlowAI)** · [demo →](https://grow-flow-ai.vercel.app) | AI task-management. Meeting notes become tasks via Telegram, web, or email. React + Supabase Edge + Capacitor (Android) + n8n + OpenAI (transcription, vision, LLM extraction). CI green, used daily. |
 | **[Kahaani AI](https://github.com/aksheyw/kahaaniAI)** · [demo →](https://kahaani-ai-livid.vercel.app) | 3 publication-ready audio scripts in 90 seconds — for ₹2 vs ₹2,000. Built in 4 days. React + Vercel serverless + OpenAI. |
 
