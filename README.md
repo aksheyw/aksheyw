@@ -39,7 +39,7 @@ Most senior PMs have one or two of these — I've shipped all four:
 
 | | |
 |---|---|
-| **[claude-code-ship-gate](https://github.com/aksheyw/claude-code-ship-gate)** | A quality gate for shipping code that an AI agent can't skip. It runs your tests, code review, and security checks before any push to your main branch and blocks the push until they pass. Opt-in per project; hardened by a 14-lens review + 3 red-team passes. Install: `/plugin marketplace add aksheyw/claude-code-ship-gate`. |
+| **[claude-code-ship-gate](https://github.com/aksheyw/claude-code-ship-gate)** | A pre-push quality gate for Claude Code. It runs your tests, code review, security, and a secret scan before any push to your protected branch and blocks it until they pass, so a `git push --no-verify` can't slip past. Default-on for a personal install, opt-in from the marketplace; say "ship it" to run it. Hardened by a 14-lens review + 3 red-team passes. Install: `/plugin marketplace add aksheyw/claude-code-ship-gate`. |
 | **[claude-code-deep-review](https://github.com/aksheyw/claude-code-deep-review)** | 14-lens iterative review methodology. Found 14 production bugs (2 ship-stoppers) on first use. |
 | **[claude-code-pm-agents](https://github.com/aksheyw/claude-code-pm-agents)** | 7 product-builder subagents — PM, growth, brand, ASO, SEO, YouTube, comms triage. |
 | **[claude-code-rules](https://github.com/aksheyw/claude-code-rules)** | Opinionated global rules: honesty / earned-confidence, TDD, immutability, branching. |
