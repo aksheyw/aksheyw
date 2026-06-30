@@ -1,6 +1,8 @@
 # Hi, I'm Akshey 👋
 
-> **Senior Product Leader · Consumer Platforms at 250M+ Device Scale · AI Product Building · 0-to-1**
+**Senior Product Leader · 250M+ Device Scale · AI Product Builder · 0-to-1**
+
+> I used to need a team and a quarter to ship a product. Now I need a weekend and an agent.
 
 [![Open to roles](https://img.shields.io/badge/Open_to-senior_product_leadership_%2F_AI_Builder_roles-success?style=for-the-badge&logo=briefcase)](https://www.linkedin.com/in/aksheywalia/)
 [![Availability](https://img.shields.io/badge/Available-immediately-22c55e?style=for-the-badge)](https://www.linkedin.com/in/aksheywalia/)
@@ -59,10 +61,21 @@ The honesty rule alone has changed how I work with Claude Code more than any pro
 
 ## Stack
 
-**AI / Automation:** Claude Code (daily) · Codex · OpenAI · Anthropic · Google (Gemini) · OpenRouter · Vapi · Deepgram · ElevenLabs · n8n · Google Antigravity · Bolt.new
-**Frontend:** React · Next.js · Tailwind · Capacitor (Android)
-**Backend:** Supabase (Postgres + Edge Functions + pgvector) · Firebase · Vercel serverless · Node.js
-**Infra:** GitHub Actions · Vercel · Hostinger VPS
+**AI & Agents**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-E07B39?style=flat)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+**Build**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
