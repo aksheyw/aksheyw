@@ -23,6 +23,16 @@ Most senior PMs have one or two of these — I've shipped all four:
 
 ---
 
+## Case Studies
+
+Short written breakdowns of how I think about the products I build — the problem, the decisions and trade-offs, and what I'd do next:
+
+- **[JobMagnet](https://github.com/aksheyw/jobmagnet-app/blob/main/CASE-STUDY.md)** — making a portfolio feel like it belongs to the company you're applying to; brand as a rendering problem, not a data problem; five agents over one prompt.
+- **[GrowFlowAI](https://github.com/aksheyw/GrowFlowAI/blob/main/CASE-STUDY.md)** — removing the capture step entirely; meeting users where they already work; designing engagement with substance.
+- **[Kahaani AI](https://github.com/aksheyw/kahaaniAI/blob/main/CASE-STUDY.md)** — moving the constraint from "can we afford to try this" to "what should we try"; honest cost transparency over impressive numbers.
+- **[Ship Gate](https://github.com/aksheyw/claude-code-ship-gate/blob/main/CASE-STUDY.md)** — putting a quality gate where the skip flag doesn't exist; knowing when to stop hardening; learning from a real footgun.
+- **[Mission Mode](https://github.com/aksheyw/mission-mode-case-study)** — a self-directed PM exercise on growth strategy for English learners in India: segmentation, JTBD, growth model, working prototype.
+
 ## Start here — PM thinking
 
 | | |
