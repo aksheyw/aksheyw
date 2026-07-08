@@ -16,7 +16,7 @@ ISB MBA (Flagbearer Award, top 1%) and most recently Group PM at InMobi (Jan 202
 
 Most senior PMs have one or two of these — I've shipped all four:
 
-- 📱 **Consumer AI scale** — Group PM on Glance AI Lock Screen (InMobi, Jan 2023 – Apr 2026), 250M+ devices across 8 markets. Led US market entry 100K → 6M devices (60X in 18 months); ARPU $10 → $15 (+25% YoY); D60 retention 49% → 55%.
+- 📱 **Consumer AI scale** — Group PM on Glance AI Lock Screen (InMobi, Jan 2023 – Apr 2026), 250M+ devices across 8 markets. Led US market entry 100K → 10M devices (100X in 18 months), reaching 6M DAU; ARPU $10 → $15 (+25% YoY); D60 retention 49% → 55%.
 - 💸 **Fintech P&L** — built Magicbricks Pay Rent from 0 → INR 50Cr GMV (100% MoM at peak), payment success 95% → 99%, settlement 48hrs → 2hrs, integrated 3 payment gateways with cashback wiring across 5 banks (HDFC, ICICI, Kotak, Standard Chartered, IDFC).
 - 🤝 **Fortune 500 partnerships** — OEM: Samsung, Motorola, Sharp, Xiaomi, Realme. Telco: Verizon (US), SoftBank (Japan).
 - 🛠 **Hands-on AI builder** — ship real products with Claude Code, Codex, n8n, Vapi, and compatible LLMs from OpenAI, Anthropic, and Google (Gemini). The repos below are my actual config, sanitized and shared.
