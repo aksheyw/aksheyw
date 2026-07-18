@@ -57,6 +57,7 @@ Short written breakdowns of how I think about the products I build — the probl
 | **[claude-code-rules](https://github.com/aksheyw/claude-code-rules)** | Opinionated global rules: honesty / earned-confidence, TDD, immutability, branching. |
 | **[claude-code-learned-skills](https://github.com/aksheyw/claude-code-learned-skills)** | 3 Docker / SSH / VPS skills auto-extracted from real debugging sessions. |
 | **[context-bridge](https://github.com/aksheyw/context-bridge)** | Per-project wiki + auto-generated handoff prompts that stop cross-session amnesia. Install: `npx skills add aksheyw/context-bridge`. 5 commands, 11-step save+sync, honesty rules embedded in adopters' CLAUDE.md. v0.1.2 shipped with matrix CI green on Ubuntu + macOS. |
+| **[claude-code-guardrail-hooks](https://github.com/aksheyw/claude-code-guardrail-hooks)** | 4 hooks that block or capture an agent's mistakes at the tool-call boundary — effort-pause, lint-config protection, secret scan, subagent-output capture. Hardened by a 3-model adversarial review. |
 | **[career-command-center-template](https://github.com/aksheyw/career-command-center-template)** | Plugin template for an AI-native job-search workflow — 10 skills, marketplace install (`/plugin marketplace add aksheyw/career-command-center-template`), example resume PDF in `examples/`. |
 
 ---
