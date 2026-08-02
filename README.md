@@ -17,7 +17,7 @@ Glance AI Lock Screen. It's built into the phone, not downloaded: wake the phone
 wallpapers, news and weather picked for you, without unlocking. It shipped on 250M+ phones across 8
 markets. I built the product team there from zero to five, and two were promoted to Senior PM.
 
-The products below are mine. I'm looking for my next senior product role.
+The products below are mine.
 
 <img src="docs/four-things.svg" width="100%"
      alt="Four things a senior product manager rarely has together. Most senior PMs have one or two of these. I have all four. One, consumer AI, at scale: 250M+ phones shipped with Glance AI Lock Screen on them, across 8 markets. InMobi 2022-26, Group PM Jan 2023. Two, money through my product: 50 Cr a month of rent at peak, through a product I started as a 1 crore pilot. Cr is crore, 10M rupees. Magicbricks Pay Rent. Three, shipping on their phones: Samsung. Verizon. SoftBank. Once the deal is signed, someone has to make it work on their phones. That was my job. Phone makers and phone networks. Four, I build products myself: 4 of my own. Three live AI products and one public product exercise, built with AI assistants typing. Everything below is mine.">
@@ -38,7 +38,7 @@ Gate, inside the nine tools below.
 ## The numbers behind my last two roles
 
 Glance AI Lock Screen: 250M+ phones, 8 markets, a product team I built from zero to five. Magicbricks
-Pay Rent: a ₹1 crore pilot to ₹50 crore a month at peak.
+Pay Rent: a ₹1 crore pilot to ₹50 crore a month at peak. A crore is 10 million rupees.
 
 <details>
 <summary><b>📄 Glance AI Lock Screen and Magicbricks Pay Rent, in full</b></summary>
@@ -56,13 +56,15 @@ Pay Rent: a ₹1 crore pilot to ₹50 crore a month at peak.
   and I led the product integration after it. The Motorola one became the pattern every later
   integration copied.
 
-**Magicbricks Pay Rent, the rent-payment product I ran at Magicbricks, India's property marketplace**
+**Magicbricks Pay Rent, Magicbricks (2015 to 2021, Product Manager)**
 
-- Gross merchandise value (GMV): a ₹1 crore pilot to ₹50 crore a month at peak, growing 100% month
-  on month at its fastest. A crore is 10 million rupees.
+The rent-payment product I ran at India's property marketplace.
+
+- Gross merchandise value (GMV): a ₹1 crore pilot to ₹50 crore a month at peak. In its fastest
+  stretch it doubled month on month.
 - Payment success 95% to 99%, and settlement from about 48 hours down to minutes
-- I owned the take rate, the cut we kept on each payment: 30 basis points gross, negotiated up from
-  25 on volume, with 35 in discussion when I left
+- I owned the take rate, the cut we kept on each payment: 30 basis points, which is 0.3% of what
+  went through, negotiated up from 0.25% as volume grew, with 0.35% in discussion when I left
 - Three payment gateways integrated, with cashback wiring across five banks: HDFC, ICICI, Kotak,
   Standard Chartered and IDFC
 
@@ -70,10 +72,10 @@ Pay Rent: a ₹1 crore pilot to ₹50 crore a month at peak.
 
 ## What I'm looking for
 
-Group PM, Principal PM or Director of Product, at an AI-first company, at a global company's India
-centre (a GCC), or at an Indian product-led company. The work I want is 0-to-1, which means taking
-something from nothing to a real product, along with the go-to-market (GTM) that follows. I'm based
-in Bengaluru, **available immediately**, and open to relocating to any Indian metro.
+I'm looking for a Group PM, Principal PM or Director of Product role, at an AI-first company, at a
+global company's India centre (a GCC), or at an Indian product-led company. The work I want is
+0-to-1, which means taking something from nothing to a real product, along with the go-to-market
+(GTM) that follows. I'm based in Bengaluru and will relocate anywhere in India for the right role.
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/aksheywalia/)**, which is the fastest way to reach me
 - 🌐 **[aksheywalia.in](https://aksheywalia.in)**, my portfolio, with a voice AI you can talk to
@@ -138,7 +140,7 @@ rather than software products, which is what makes them portable.
 
 These are the tools I work with, not one product's stack. The large language models (LLMs) behind my
 building are Anthropic's, OpenAI's and Google Gemini's; the products themselves all run on OpenAI.
-n8n for wiring services
+I use n8n to wire services
 together, and Vapi for voice. Underneath: React, with Next.js or Vite depending on the job,
 Supabase where a product needs a database or sign-in, Vercel for hosting, and GitHub Actions for
 continuous integration (CI), running the checks.
