@@ -96,6 +96,8 @@ specialist reviewer agents I can call on, and small scripts that fire on the act
 open-sourced that setup as nine repositories. They're mostly written instructions and small scripts
 rather than software products, which is what makes them portable.
 
+**If you're new to Claude Code, start with [claude-code-starter-kit](https://github.com/aksheyw/claude-code-starter-kit).** It's the front door to eight of the nine tools below. It runs in the Claude desktop app on a Mac, usually without a terminal, and takes one evening. Claude sets itself up, shows you each thing before adding it, and ends by drafting a real piece of your own work.
+
 ## The nine tools, and what each one is for
 
 | Tool | What it does |
@@ -160,4 +162,4 @@ for hosting, and GitHub Actions for continuous integration (CI), running the che
 
 ---
 
-<sub>Last updated: 2026-08</sub>
+<sub>Last updated: 2026-10</sub>
