@@ -4,8 +4,6 @@
 
 ### Senior product leader. I shipped AI to 250M+ phones, and now I build products myself.
 
-[![Open to roles](https://img.shields.io/badge/Open_to-senior_product_leadership_%2F_AI_Builder_roles-success?style=for-the-badge&logo=briefcase)](https://www.linkedin.com/in/aksheywalia/)
-[![Availability](https://img.shields.io/badge/Available-immediately-22c55e?style=for-the-badge)](https://www.linkedin.com/in/aksheywalia/)
 [![Credential](https://img.shields.io/badge/ISB_MBA-Flagbearer_Award_(top_1%25)-orange?style=for-the-badge)](https://aksheywalia.in)
 
 </div>
@@ -70,12 +68,9 @@ The rent-payment product I ran at India's property marketplace.
 
 </details>
 
-## What I'm looking for
+## Where to find me
 
-I'm looking for a Group PM, Principal PM or Director of Product role, at an AI-first company, at a
-global company's India centre (a GCC), or at an Indian product-led company. The work I want is
-0-to-1, which means taking something from nothing to a real product, along with the go-to-market
-(GTM) that follows. I'm based in Bengaluru and will relocate anywhere in India for the right role.
+I'm based in Bengaluru.
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/aksheywalia/)**, which is the fastest way to reach me
 - 🌐 **[aksheywalia.in](https://aksheywalia.in)**, my portfolio, with a voice AI you can talk to
