@@ -10,8 +10,8 @@
 
 ---
 
-I've spent over a decade in product management, most recently as Group Product Manager at InMobi on
-Glance AI Lock Screen. It's built into the phone, not downloaded: wake the phone and you get
+I've spent over a decade in product management. I'm now a Senior Product Manager at Cvent in Bengaluru.
+Before that I was Group Product Manager at InMobi on Glance AI Lock Screen. It's built into the phone, not downloaded: wake the phone and you get
 wallpapers, news and weather picked for you, without unlocking. It shipped on 250M+ phones across 8
 markets. I built the product team there from zero to five product managers, and promoted two to Senior PM.
 
